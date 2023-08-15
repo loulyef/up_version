@@ -25,4 +25,7 @@ jobs:
     - name: Push to docker hub :latest
       uses: actions-hub/docker@master
       with:
-       args: push lolyef/up_version1:v2.0
+       args: push loulyef/up_version1:v2.0
+
+
+
